@@ -1,0 +1,51 @@
+{
+    "teams": {
+      "Bourges Basket": [
+        {
+          "id": 1,
+          "name": "A. Okonkwo",
+          "position": "G",
+          "stats": {
+            "points": 14,
+            "rebounds": 5,
+            "assists": 2,
+            "minutes": "27:24",
+            "2P%": 60,
+            "3P%": 40,
+            "FT%": 100
+          }
+        },
+        {
+          "id": 2,
+          "name": "M. Green",
+          "position": "F",
+          "stats": {
+            "points": 10,
+            "rebounds": 7,
+            "assists": 5,
+            "minutes": "29:03",
+            "2P%": 55,
+            "3P%": 40,
+            "FT%": 75
+          }
+        }
+      ],
+      "Tarbes Gespe Bigorre": [
+        {
+          "id": 1,
+          "name": "C. Droguet",
+          "position": "C",
+          "stats": {
+            "points": 16,
+            "rebounds": 8,
+            "assists": 3,
+            "minutes": "30:35",
+            "2P%": 50,
+            "3P%": 33,
+            "FT%": 100
+          }
+        }
+      ]
+    }
+  }
+  
